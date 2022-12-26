@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaime. 
-- 👀 I’m interested in: UX Design and research, learning how to code, and climbing.
-- 🌱 I’m currently learning CSS, Javascript, and how to lift heavy weights.
+- 👀 I’m interested in: UX design/research, learning how to code, and climbing.
+- 🌱 I’m currently learning Javascript and how to lift heavy weights.
 - 📫 How to reach me: carrier pigeon (or my public email address).
 
 <!---
