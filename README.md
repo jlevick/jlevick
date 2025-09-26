@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaime. 
 - 👀 I’m interested in: content design and climbing.
-- 🌱 I’m currently learning: how to be a beginner, again, again, again. 
+- 🌱 I’m currently learning: how to ask the right questions (and how to lift heavy weights).
 - 📫 How to reach me: carrier pigeon (or my public email address).
 
 <!---
